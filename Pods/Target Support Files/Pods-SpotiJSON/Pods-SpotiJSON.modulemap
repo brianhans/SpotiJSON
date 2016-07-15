@@ -1,0 +1,6 @@
+framework module Pods_SpotiJSON {
+  umbrella header "Pods-SpotiJSON-umbrella.h"
+
+  export *
+  module * { export * }
+}
